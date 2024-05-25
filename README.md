@@ -17,4 +17,7 @@ Are you familiar with web scraping techniques?
 
 If tasked with extracting the number of NRIs across PMSs from SEBI's monthly reports for June '23, Sep '23, Dec '23, and Mar '24, how would you approach this task in terms of process, time, output file, and data accuracy?
 
+ What configuration of devices do you believe is necessary to perform these tasks on a daily basis?"
+
+
 Each answer is written in detail, addressing the respective question. Please refer to the Word document for the complete answers.
